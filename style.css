@@ -155,3 +155,33 @@
     font-style: italic;
     font-size: 18px;
 }
+
+
+
+
+
+
+
+.quotes{
+    background-color: #E5E7EB;
+    padding: 20px;
+}
+.quote-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 12px 0;
+}
+.credit{
+    margin-top: 10px;
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: 500;
+}
+.quotation{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
